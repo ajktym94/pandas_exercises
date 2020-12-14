@@ -1,0 +1,2 @@
+import requests
+API_KEY = "44d37faecb38d51c04e31300fd9540cd651f9"
